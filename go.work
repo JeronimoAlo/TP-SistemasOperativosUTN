@@ -1,6 +1,10 @@
-go 1.22.1
+go 1.22
 
 use (
-	./client
-	./server
+	./cpu
+	./filesystem
+	./kernel
+	./memoria
+	./utils
+	./globals
 )
